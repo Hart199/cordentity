@@ -1,8 +1,6 @@
-# Cordentity
-
 ![logo](03_cordentity_app_LOGO_color.svg)
 
-The basis project combining [Hyperledger Indy Ledger](https://www.hyperledger.org/projects/hyperledger-indy) with [Corda Platform](https://www.corda.net/index.html).
+This project combines [Hyperledger Indy Ledger](https://www.hyperledger.org/projects/hyperledger-indy) with [Corda Platform](https://www.corda.net/index.html) and offers a proof-of-concept showing various functions like proof of identity.
 
 It is often required to share parts of private data and prove assertions based on such data. 
 For example, a person can prove that her age is above the legal age without disclosing how old she is.
